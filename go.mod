@@ -1,6 +1,6 @@
-module gitlab.com/shitposting/fingerprinting
+module github.com/shitpostingio/image-fingerprinting
 
-go 1.13
+go 1.15
 
 require (
 	github.com/AlessandroPomponio/hsv v0.0.0-20190812070135-855ac4adcd7f
