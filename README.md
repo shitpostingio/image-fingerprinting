@@ -1,7 +1,11 @@
-# fingerprinting
+# Image Fingerprinting
 
-Calculate video and photo hashes.
+This library provides methods to compute feature based data for images and videos.
 
-## Compiling important info!
+Geared towards use in Telegram, it currently supports perception hashing and histograms.
 
-To successfully compile this library, you need the `CGO_CFLAGS_ALLOW` environment variable set to `-L(.*)|-l(.*)`! 
+## Libraries needed
+
+You will need some install the following libraries in order to build this repo on linux:
+
+```sudo apt install -y libavcodec-dev libavformat-dev libavutil-dev libswscale-dev xz-utils```
