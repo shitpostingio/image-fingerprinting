@@ -1,0 +1,11 @@
+github.com/AlessandroPomponio/hsv v0.0.0-20190812070135-855ac4adcd7f h1:NqkN1OkZvOSP/xfULesyLE33yLRCY1/sEuK+j+9vp2s=
+github.com/AlessandroPomponio/hsv v0.0.0-20190812070135-855ac4adcd7f/go.mod h1:/QmcYzxY0EIqnyaf45UX96L7RUxhXhmoEZ8c97snyxI=
+github.com/corona10/goimagehash v0.3.0 h1:5BsdGuh2WszGl1qwxBqKptGxm0PNxXyLVc7WukK6bJA=
+github.com/corona10/goimagehash v0.3.0/go.mod h1:BQtzmQ2tNr04YeCPYBOiIWe/69WJF5IRGPLmzxvcAKg=
+github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 h1:zYyBkD/k9seD2A7fsi6Oo2LfFZAehjjQMERAvZLEDnQ=
+github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646/go.mod h1:jpp1/29i3P1S/RLdc7JQKbRpFeM1dOBd8T9ki5s+AY8=
+gitlab.com/opennota/screengen v0.0.0-20190303011023-4c1f27a3452a h1:iXQLirVnZQ6DSpHHN6GQcGVdcqs2CbPsocSQbq27hAc=
+gitlab.com/opennota/screengen v0.0.0-20190303011023-4c1f27a3452a/go.mod h1:aMJ5Zrz1DJL5RysiKMd20d/ndkMQU9Zeaei3z9KAmBQ=
+golang.org/x/image v0.0.0-20191214001246-9130b4cfad52 h1:2fktqPPvDiVEEVT/vSTeoUPXfmRxRaGy6GU8jypvEn0=
+golang.org/x/image v0.0.0-20191214001246-9130b4cfad52/go.mod h1:FeLwcggjj3mMvU+oOTbSwawSJRM1uh48EjtB4UJZlP0=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
